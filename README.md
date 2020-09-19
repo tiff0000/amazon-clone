@@ -2,7 +2,7 @@
 amazon-clone with React. 
 
 Create an Amazon web app with
-React, Redux Context API
+React, Redux Context API, React Router
 
 Functionalities:
 - Add to basket 
